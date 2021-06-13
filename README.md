@@ -18,7 +18,7 @@ You will also see any lint errors in the console.
 
 Once loaded the Front-end is ready.
 
-## `IMP: Dont kill the server to switch to next folder use two terminal for each.`
+## ` Dont kill the server to switch to next folder use two terminal for each.`
 
 Then on your terminal switch to tinder-backend folder by:
 
