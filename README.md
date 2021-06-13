@@ -54,6 +54,6 @@ App will Work on :
 
 ### `http://localhost:3000`
 
-## Happy Hacking.&#1F604
+### Happy Hacking!
 
 
